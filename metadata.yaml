@@ -1,0 +1,26 @@
+_repo: Ce-qu-il-faut-lire-dans-sa-vie_69626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mazel, Henri
+    gutenberg_agent_id: '55346'
+    url: http://www.gutenberg.org/2009/agents/55346
+description: ''
+gutenberg_issued: '2022-12-23'
+identifiers:
+  gutenberg: '69626'
+language: fr
+pgterms:marc904: https://archive.org/details/cequilfautlired00mazegoog
+pgterms:marc905: 20210311170839mazel
+pgterms:marc906: '1906'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'France: Mercure de France,1906,copyright 1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ce qu'il faut lire dans sa vie
+url: http://www.gutenberg.org/ebooks/69626
