@@ -1,11 +1,16 @@
 _repo: Ce-qu-il-faut-lire-dans-sa-vie_69626
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69626-h/images/cover.jpg
 creator:
   author:
     agent_name: Mazel, Henri
     gutenberg_agent_id: '55346'
     url: http://www.gutenberg.org/2009/agents/55346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69626#Ce-qu-il-faut-lire-dans-sa-vie
 gutenberg_issued: '2022-12-23'
 identifiers:
   gutenberg: '69626'
